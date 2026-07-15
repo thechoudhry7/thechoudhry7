@@ -80,7 +80,7 @@ Seeking opportunities as a **Data Analyst** where I can apply analytical thinkin
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/shivam-choudhry-5b7b61124/
 - 💻 GitHub: https://github.com/thechoudhry7
 
 ---
