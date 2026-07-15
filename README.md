@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/banner.png" alt="GitHub Banner" width="100%">
+  <img src="Images/Banner.png" alt="GitHub Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Shivam Choudhry</h1>
 <h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Python</h3>
